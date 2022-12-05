@@ -1,4 +1,4 @@
-#Chapter 1: The Role of Algorithms in Computing
+# Chapter 1: The Role of Algorithms in Computing
 
 ---
 
@@ -15,7 +15,7 @@ It consists of the input needed to compute a solution to the problem.
 : Data Structure is a way to store and organize data in order to facilitate access and modifications.
 No single data structure works well for all purposes.</br></br>
 
-###Notes:
+### Notes:
 
 - An algorithm is said to be correct if for every input instance, it halts with the correct output.</br></br>
 
