@@ -2,7 +2,7 @@
 
 ---
 
-###Definitions:
+### Definitions:
 
 **Algorithm**
 : An algorithm is any well-defined computational procedure that takes input and produces output.
